@@ -7,20 +7,17 @@
 .wrapper{
     background: white;
     display: flex;
-    width: 1250px;
-    height: 1400px;
-    margin-top: 30px;
-    margin-left: 30px;
-    margin-right: 30px;
-    margin-bottom: 606px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 100px;
     }
 
 body{
     background: #989a9c;
     padding: 30px;
     font-family: Montserrat;
-    width: 1300px;
-    height: 1665px;
+
 }
 
 
@@ -119,11 +116,10 @@ margin-left: 30px;
     }
 
     .name{
-    font-size: 45px;
+    font-size: 40px;
     font-weight: 700;
     line-height: 89px;
     color: #000000;
-    margin-bottom: 15px;
     }
 
 .all-text-about-me{
