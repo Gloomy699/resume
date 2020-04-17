@@ -1,204 +1,192 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
-.wrapper{
-    background: white;
-    display: flex;
-    margin-top: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-bottom: 100px;
-    }
-
-body{
-    background: #989a9c;
-    padding: 30px;
-    font-family: Montserrat;
-
+.wrapper {
+  background: white;
+  display: flex;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 100px;
 }
 
-
-.sidebar{
-    background: #1e2939;
-    width: 370px;
-    padding-top: 40px;
-    padding-bottom: 40px;
+body {
+  background: #989a9c;
+  padding: 30px;
+  font-family: Montserrat;
 }
 
-.photo{
-    width: 370px;
+.sidebar {
+  background: #1e2939;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
-.contacts-container{
-    margin-top: 60px;
-    margin-left: 40px;
-    margin-right: 40px;
+.photo {
+  width: 370px;
 }
 
-.contacts-container-title{
-font-size: 22px;
-font-weight: 700;
-line-height: 24px;
-color: white;
-margin-bottom: 20px;
+.contacts-container {
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
 }
 
-.contacts{
-font-size: 14px;
-font-weight: 400;
-line-height: 24px;
-color: #898f97;
+.contacts-container-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: white;
+  margin-bottom: 20px;
 }
 
-.c-e-style{
-font-size: 14px;
-font-weight: 700;
-line-height: 24px;
-color: #f8f9f9;
-margin-right: 10px;
+.contacts {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #898f97;
 }
 
-.side-bar-h3{
-font-size: 22px;
-font-weight: 700;
-line-height: 24px;
-color: white;
-margin-bottom: 20px;
-}
-    
-.Tech-Scills-container{
-margin-top: 55px;
-margin-left: 40px;
-margin-right: 40px;
-}
-    
-.scils{
-font-size: 14px;
-font-weight: 200;
-line-height: 24px;
-color: #ff6b08;
-margin-left: 15px;
-}
-    
-.scils-text{
-color: #e0e2e4; 
-}
-    
-.Soft-Scills-container{
-margin-top: 55px;
-margin-left: 40px;
-margin-right: 40px;
+.c-e-style {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #f8f9f9;
+  margin-right: 10px;
 }
 
-.about-me{
-padding-top: 70px;
-padding-bottom: 110px;
-padding-left: 90px;
-padding-right: 90px;
-margin-left: 30px;
+.side-bar-h3 {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: white;
+  margin-bottom: 20px;
 }
 
-
-
-
-
-
-
-    .possition{
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 24px;
-    color: #000000;
-    margin-bottom: 25px;
-    }
-
-    .name{
-    font-size: 40px;
-    font-weight: 700;
-    line-height: 89px;
-    color: #000000;
-    }
-
-.all-text-about-me{
-font-size: 14px;
-font-weight: 400;
-line-height: 24px;
-color: #727272;
+.Tech-Scills-container {
+  margin-top: 55px;
+  margin-left: 40px;
+  margin-right: 40px;
 }
 
-.all-text-about-me-tale{
-font-size: 14px;
-font-weight: 400;
-line-height: 24px;
-color: #727272;
-margin-bottom: 65px;
+.scils {
+  font-size: 14px;
+  font-weight: 200;
+  line-height: 24px;
+  color: #ff6b08;
+  margin-left: 15px;
 }
 
-.all-text-about-me-symbol{
-    font-size: 14px;
-    font-weight: 700;
-    line-height: 24px;
-}
-.experience-projects-education{
-font-size: 22px;
-font-weight: 700;
-line-height: 24px;
+.scils-text {
+  color: #e0e2e4;
 }
 
-.experience-projects-education{
-font-size: 22px;
-font-weight: 700;
-line-height: 24px;
-color: #000000;
-margin-top: 50px;
+.Soft-Scills-container {
+  margin-top: 55px;
+  margin-left: 40px;
+  margin-right: 40px;
 }
 
-.all-text-about-me-title{
-font-size: 16px;
-font-weight: 700;
-line-height: 24px;
-color: #000000;
-margin-top: 15px;
-}
-.orange{
-    color: #ff6b08;
-}
-.all-text-about-me-date{
-font-size: 12px;
-font-weight: 400;
-line-height: 24px;
-color: #b9b9b9;
+.about-me {
+  padding-top: 70px;
+  padding-bottom: 110px;
+  padding-left: 90px;
+  padding-right: 90px;
+  margin-left: 30px;
 }
 
-
-
-
-
-.prof{
-    font-size: 14px;
-    font-weight: 700;
-    line-height: 24px;
-    color: #000000;
+.possition {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #000000;
+  margin-bottom: 25px;
 }
 
-.HNPU{
-    font-size: 16px;
-    font-weight: 700;
-    line-height: 24px;
-    color: #ff7518;
-    margin-top: 12px;
+.name {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 89px;
+  color: #000000;
 }
 
-.univer-date{
-    font-size: 12px;
-font-weight: 400;
-line-height: 24px;
-color: #b9b9b9;
+.all-text-about-me {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #727272;
 }
 
-.date-symbol{
-    color: #000000;
+.all-text-about-me-tale {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #727272;
+  margin-bottom: 65px;
+}
+
+.all-text-about-me-symbol {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.experience-projects-education {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.experience-projects-education {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #000000;
+  margin-top: 50px;
+}
+
+.all-text-about-me-title {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #000000;
+  margin-top: 15px;
+}
+.orange {
+  color: #ff6b08;
+}
+.all-text-about-me-date {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #b9b9b9;
+}
+
+.prof {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #000000;
+}
+
+.HNPU {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ff7518;
+  margin-top: 12px;
+}
+
+.univer-date {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #b9b9b9;
+}
+
+.date-symbol {
+  color: #000000;
 }
