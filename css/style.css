@@ -7,7 +7,7 @@
 .wrapper{
     background: white;
     display: flex;
-    width: 1150px;
+    width: 1250px;
     height: 1400px;
     margin-top: 30px;
     margin-left: 30px;
@@ -19,7 +19,7 @@ body{
     background: #989a9c;
     padding: 30px;
     font-family: Montserrat;
-    width: 1200px;
+    width: 1300px;
     height: 1665px;
 }
 
